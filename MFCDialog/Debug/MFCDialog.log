@@ -1,0 +1,27 @@
+﻿生成启动时间为 2015/9/17 星期四 3:34:46。
+     1>项目“D:\WorkSpace\code\c++\MFC\MFCDialog\MFCDialog\MFCDialog.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Connection.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCDialog.cpp MFCDialogDlg.cpp MFCDialogSt.cpp QRCodeDlg.cpp
+         QRCodeDlg.cpp
+         MFCDialogSt.cpp
+         MFCDialogDlg.cpp
+         MFCDialog.cpp
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\bin\rc.exe /D _DEBUG /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /l"0x0804" /IDebug\ /nologo /fo"Debug\MFCDialog.res" MFCDialog.rc 
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\WorkSpace\code\c++\MFC\MFCDialog\Debug\Connection.exe" /INCREMENTAL /NOLOGO D:\SQLite3\lib\sqlite3.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\WorkSpace\code\c++\MFC\MFCDialog\Debug\Connection.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\WorkSpace\code\c++\MFC\MFCDialog\Debug\Connection.lib" /MACHINE:X86 Debug\MFCDialog.res
+         Debug\AccountInfo.obj
+         Debug\Connection.obj
+         Debug\HeartbeatSocket.obj
+         Debug\MFCDialog.obj
+         Debug\MFCDialogDlg.obj
+         Debug\MFCDialogSt.obj
+         Debug\QRCodeDlg.obj
+         Debug\stdafx.obj
+         MFCDialog.vcxproj -> D:\WorkSpace\code\c++\MFC\MFCDialog\Debug\Connection.exe
+     1>已完成生成项目“D:\WorkSpace\code\c++\MFC\MFCDialog\MFCDialog\MFCDialog.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:31.03
